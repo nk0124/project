@@ -1,4 +1,4 @@
-// first step node ke package ko install kerna 
+// first step install node package 
 // npm i color
 // npm i color-convert
 
